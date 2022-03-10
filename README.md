@@ -12,4 +12,4 @@ pip install -r requirements.txt
 py pegar_perfil.py
 ```
 
-Pronto! Agora é só digitar o seu código de rastreamento e as informações sobre o seu objeto irão aparecerer.
+Pronto! Agora é só digitar o nome de usuário de qualquer pessoa, que as informações irão aparecer.
